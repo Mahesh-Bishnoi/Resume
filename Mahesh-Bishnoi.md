@@ -1,17 +1,17 @@
 # Mahesh Bishnoi
 
-| 			                                                        |  		                                                                           |
+|                                                               |                                                                                |
 |---------------------------------------------------------------|--------------------------------------------------------------------------------|
 | [bishnoimahesh96@gmail.com](mailto:bishnoimahesh96@gmail.com) | [linkedin.com/in/mahesh-bishnoi/](https://www.linkedin.com/in/mahesh-bishnoi/) |
-| +91 9461695823                                                | [github.com/Mahesh-Bishnoi](https://github.com/Mahesh-Bishnoi)                 |
+| +31 617486822                                                 | [github.com/Mahesh-Bishnoi](https://github.com/Mahesh-Bishnoi)                 |
 
 ## Summary
 
-Results-driven **Senior Software Developer** with **5 years** of experience in **full stack web development**. Expert in **Java and Spring Boot** for robust backend solutions, with a strong focus on **microservices architecture**. Proficient in **React** for creating dynamic, user-friendly frontend applications. Skilled in database management using **MySQL** and demonstrated expertise in cloud technologies including **AWS and Azure**, alongside a solid foundation in **JavaScript, HTML, and CSS**. Familiar with **Python and basic machine learning** concepts, enabling versatile problem-solving capabilities. Passionate about delivering high-quality software solutions and collaborating in **agile** environments to drive innovation and efficiency.
+Results-driven **Software Developer** with **6 years** of experience in **full stack web development**. Expert in **Java and Spring Boot** for robust backend solutions, with a strong focus on **microservices architecture**. Proficient in **React** for creating dynamic, user-friendly frontend applications. Skilled in database management using **MySQL** and demonstrated expertise in cloud technologies including **GCP and Azure**, alongside a solid foundation in **JavaScript, HTML, and CSS**. Familiar with **Python and basic machine learning** concepts, enabling versatile problem-solving capabilities. Passionate about delivering high-quality software solutions and collaborating in **agile** environments to drive innovation and efficiency.
 
 ---
 
-**Skills**: Java, Spring Boot, ReactJs, REST APIs, Microservices, MySQL, Apache Kafka, Azure, AWS
+**Skills**: Java, Spring Boot, ReactJs, REST APIs, Microservices, MySQL, Apache Kafka, Azure, Google Cloud Platform
 
 ---
 
@@ -24,8 +24,22 @@ Results-driven **Senior Software Developer** with **5 years** of experience in *
 
 ## Experience
 
+### TEKsystems | Engineer
+#### Dec 2024 - Present (10 months)
+
+Worked as a full stack developer delivering transactional communications to multiple countries in multiple locales through multiple channels like email, SMS, push notifications. Conducted interviews and contributed to internal technical communities.
+
+**Decathlon - Icheck:**
+
+* Migrated from **ActiveMQ** to **Kafka** with zero downtime.
+* Implemented a multi provider strategy to increase **reliability** and **availability** of the system.
+* Created **dashboards** and **alerts** in **Datadog** to monitor the system.
+* Migrated the **Kubernetes** deployment to a new cluster in **GCP**.
+
+**Awards and achievements:** Finalist for Dragon's Den event (an event to pitch ideas to solve business challenges).
+
 ### Collins Aerospace | Lead Software Developer 
-#### Feb 2023 - Present (1 year 9 months)
+#### Feb 2023 - Nov 2024 (1 year 9 months)
 
 Worked as a full stack developer. Collaborated closely with product managers to suggest innovative solutions, delivering high-quality code solutions aligned with business requirements and mentored junior engineers to foster skill development and team growth. Conducted regular system maintenance, monitoring, and performance optimizations focused on enhancing productivity and code quality while promoting best practices within the team.
 
@@ -63,6 +77,9 @@ software development life cycle (SDLC) with expertise in SAP commerce cloud and 
 ---
 
 ## Licenses & Certifications
+
+### Associate Cloud Engineer Certification - Google
+#### [https://www.credly.com/badges/5e0e6909-9f2b-4ba3-af91-6ec1a778513c/public_url](https://www.credly.com/badges/5e0e6909-9f2b-4ba3-af91-6ec1a778513c/public_url)
 
 ### Microsoft Certified: Azure Fundamentals - Microsoft
 #### [https://www.credly.com/badges/4e3111cd-cd59-4b95-8931-c7070de6ac1b/public_url](https://www.credly.com/badges/4e3111cd-cd59-4b95-8931-c7070de6ac1b/public_url)
