@@ -7,11 +7,11 @@
 
 ## Summary
 
-Results-driven **Software Developer** with **6 years** of experience in **full stack web development**. Expert in **Java and Spring Boot** for robust backend solutions, with a strong focus on **microservices architecture**. Proficient in **React** for creating dynamic, user-friendly frontend applications. Skilled in database management using **MySQL** and demonstrated expertise in cloud technologies including **GCP and Azure**, alongside a solid foundation in **JavaScript, HTML, and CSS**. Familiar with **Python and basic machine learning** concepts, enabling versatile problem-solving capabilities. Passionate about delivering high-quality software solutions and collaborating in **agile** environments to drive innovation and efficiency.
+Results-driven **Senior Software Developer** with **6.5 years** of experience in **full stack web development**. Expert in **Java and Spring Boot** for robust backend solutions, with a strong focus on **microservices architecture**. Proficient in **React** for creating dynamic, user-friendly frontend applications. Skilled in database management using **PostgreSQL** and demonstrated expertise in cloud technologies including **GCP and Azure**, alongside a solid foundation in **JavaScript, HTML, and CSS**. Familiar with **Python and machine learning** concepts, enabling versatile problem-solving capabilities. Passionate about delivering high-quality software solutions and collaborating in **agile** environments to drive innovation and efficiency.
 
 ---
 
-**Skills**: Java, Spring Boot, ReactJs, REST APIs, Microservices, MySQL, Apache Kafka, Azure, Google Cloud Platform
+**Skills**: Java, Spring Boot, ReactJs, REST APIs, Microservices, PostgreSQL, Apache Kafka, Google Cloud Platform, Azure
 
 ---
 
@@ -24,16 +24,20 @@ Results-driven **Software Developer** with **6 years** of experience in **full s
 
 ## Experience
 
-### TEKsystems | Engineer
-#### Dec 2024 - Present (10 months)
+### TEKsystems | Senior Engineer
+#### Dec 2024 - Present (1 year 5 months)
 
-Worked as a full stack developer delivering transactional communications to multiple countries in multiple locales through multiple channels like email, SMS, push notifications. Conducted interviews and contributed to internal technical communities.
+**TekSystems - TalentBuddy:**
+Worked as a consultant for customers delivering value through innovative solutions to technical and business challenges.
+
+* Developed an internal **AI** tool with **python**, **LangChain**, **Azure AI foundry** and **LLM** to help recruiters hire best talent for customer needs.
 
 **Decathlon - Icheck:**
+Worked as a full stack developer delivering transactional communications to multiple countries in multiple locales through multiple channels like email, SMS, push notifications. Conducted interviews and contributed to internal technical communities.
 
 * Migrated from **ActiveMQ** to **Kafka** with zero downtime.
 * Implemented a multi provider strategy to increase **reliability** and **availability** of the system.
-* Created **dashboards** and **alerts** in **Datadog** to monitor the system.
+* Created **dashboards**, **alerts** and **metrics** in **Datadog** to monitor the system.
 * Migrated the **Kubernetes** deployment to a new cluster in **GCP**.
 
 **Awards and achievements:** Finalist for Dragon's Den event (an event to pitch ideas to solve business challenges).
@@ -41,9 +45,8 @@ Worked as a full stack developer delivering transactional communications to mult
 ### Collins Aerospace | Lead Software Developer 
 #### Feb 2023 - Nov 2024 (1 year 9 months)
 
-Worked as a full stack developer. Collaborated closely with product managers to suggest innovative solutions, delivering high-quality code solutions aligned with business requirements and mentored junior engineers to foster skill development and team growth. Conducted regular system maintenance, monitoring, and performance optimizations focused on enhancing productivity and code quality while promoting best practices within the team.
-
 **Customer Portal (B2B):**
+Worked as a full stack developer. Collaborated closely with product managers to suggest innovative solutions, delivering high-quality code solutions aligned with business requirements and mentored junior engineers to foster skill development and team growth. Conducted regular system maintenance, monitoring, and performance optimizations focused on enhancing productivity and code quality while promoting best practices within the team.
 
 * Created an **internal logging** tool and integrated it with customer portal for log monitoring.
 * Implemented **user group based authorization** for existing administration portal.
@@ -61,10 +64,9 @@ Worked as a full stack developer. Collaborated closely with product managers to 
 ### Nagarro | Senior Engineer 
 #### Dec 2019 - Feb 2023 (3 year 3 months)
 
+**E-commerce application (B2C):**
 Worked as a full stack developer following agile methodologies and providing software design, software development services throughout the
 software development life cycle (SDLC) with expertise in SAP commerce cloud and Hybris development.
-
-**E-commerce application (B2C):**
 
 * Integrated **Apple Pay** in the website as well as developed **API's for IOS app** resulting in increased customer satisfaction.
 * Integrated **Cybersource and MPGS payment gateways** in the website and updated them to latest 3DS 2.0 standard.
@@ -77,6 +79,12 @@ software development life cycle (SDLC) with expertise in SAP commerce cloud and 
 ---
 
 ## Licenses & Certifications
+
+### Generative AI Leader Certification - Google
+#### [https://www.credly.com/badges/5cf3b134-661c-4cb9-a977-3a256c795568/public_url](https://www.credly.com/badges/5cf3b134-661c-4cb9-a977-3a256c795568/public_url)
+
+### Professional Cloud Architect Certification - Google
+#### [https://www.credly.com/badges/5bd4dcc8-a980-4f04-a0fc-6c1b7f419d31/public_url](https://www.credly.com/badges/5bd4dcc8-a980-4f04-a0fc-6c1b7f419d31/public_url)
 
 ### Associate Cloud Engineer Certification - Google
 #### [https://www.credly.com/badges/5e0e6909-9f2b-4ba3-af91-6ec1a778513c/public_url](https://www.credly.com/badges/5e0e6909-9f2b-4ba3-af91-6ec1a778513c/public_url)
